@@ -1,0 +1,2 @@
+<?php
+// university-detail.php
